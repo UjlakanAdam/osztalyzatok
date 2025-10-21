@@ -19,3 +19,6 @@ print(f"Ez a diák kapott elégtelent: {cv}")
 
 asd = feladatok2.feladat51(lista)
 feladatok.feladat5(asd)
+
+dsa = feladatok2.fel6(lista)
+print(dsa)

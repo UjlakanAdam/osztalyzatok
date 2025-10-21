@@ -25,9 +25,11 @@ def fel6(templist2):
 
         diak = templist2[i]
 
-        print(f"Diák {i+1} : diak")
+        print(f"Diák {i+1} : {diak}")
 
-        return diak
+        i += 1
+
+    return diak
 
 def feladat51(szamok):
     cv=0
