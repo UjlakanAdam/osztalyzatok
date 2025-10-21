@@ -16,4 +16,15 @@ def fel7():
 
         lo.append(sz)
 
-    return lo  
+    return lo
+
+def fel6(templist2):
+    i = 0
+
+    while  i < len(templist2):
+
+        diak = templist2[i]
+
+        print(f"Diák {i+1} : diak")
+
+        return diak
