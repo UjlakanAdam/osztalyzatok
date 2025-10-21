@@ -40,12 +40,16 @@ def feladat4(szamok):
         cv+=1
     return cv
 
-#def feladat5(szamok):
+def feladat5(szamok):
 
+    e = szamok[0]
+    f = szamok[1]
+    g = szamok[2]
+    h = szamok[3]
+    i = szamok[4]
 
-    
-
-
-    
-
-    
+    print("×"*e)
+    print("×"*f)    
+    print("×"*g)
+    print("×"*h)
+    print("×"*i)

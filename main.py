@@ -16,3 +16,6 @@ print(f"Elégtelenek száma: {egyes}")
 
 cv=feladatok.feladat4(lista)
 print(f"Ez a diák kapott elégtelent: {cv}")
+
+asd = feladatok2.feladat51(lista)
+feladatok.feladat5(asd)
