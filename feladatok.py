@@ -1,0 +1,2 @@
+def feladat1():
+    
